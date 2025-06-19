@@ -40,7 +40,7 @@
 
 ## 📷 Preview
 
-![Screenshot](https://placehold.co/800x500?text=Add+Your+Screenshot+Here)
+![Screenshot](E:\Internship\portfolio\img\about.jpg)
 
 ---
 
